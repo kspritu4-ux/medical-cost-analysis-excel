@@ -17,18 +17,18 @@ Do dependents significantly affect insurance charges?
 Which region incurs the highest medical costs?
 
 ## 📑 Table of Contents
-1. [Dataset Overview](##dataset-overview)
-2. [Key Takeaways](##key-takeaways)
-3. [Statistical Summary](##statistical-summary)
-4. [Smoking Impact Analysis](##smoking-impact-analysis)
-5. [BMI & Cost Relationship](##bmi--cost-relationship)
-6. [Dependents Analysis](##dependents-analysis)
-7. [Regional Insights](##regional-insights)
-8. [Dashboard Overview](##dashboard-overview)
-9. [Tools & Skills Used](##tools--skills-used)
-10.[Project Outcome](##project-outcome)
+1. [Dataset Overview](#dataset-overview)
+2. [Key Takeaways](#key-takeaways)
+3. [Statistical Summary](#statistical-summary)
+4. [Smoking Impact Analysis](#smoking-impact-analysis)
+5. [BMI & Cost Relationship](#bmi--cost-relationship)
+6. [Dependents Analysis](#dependents-analysis)
+7. [Regional Insights](#regional-insights)
+8. [Dashboard Overview](#dashboard-overview)
+9. [Tools & Skills Used](#tools--skills-used)
+10.[Project Outcome](#project-outcome)
 
-## 📂 Dataset Overview
+## Dataset Overview
 
 The dataset includes the following variables:
 
@@ -48,7 +48,7 @@ Medical Charges
 
 Medical charges show high variability, with a strong right-skew caused by a small number of high-cost cases.
 
-## ✅ Key Takeaways
+## Key Takeaways
 
 Smoking is the strongest cost driver, with smokers incurring significantly higher medical charges across all regions.
 
@@ -60,7 +60,7 @@ Dependents have no strong relationship with medical costs; high expenses appear 
 
 Over 70% of individuals fall into Overweight or Obese BMI categories, highlighting a major public health concern.
 
-## 📊 Statistical Summary
+## Statistical Summary
 
 Age & BMI: Mean and median values are closely aligned, indicating stable distributions.
 
@@ -68,7 +68,7 @@ Medical Charges: Large gap between mean and median shows presence of high-cost o
 
 Cost Distribution: Highly right-skewed; majority fall into lower cost brackets, with very few extreme cases.
 
-## 🚬 Smoking Impact Analysis
+## Smoking Impact Analysis
 
 Smokers incur multiple times higher average charges than non-smokers.
 
@@ -78,7 +78,7 @@ Smoking outweighs demographic and geographic factors in predicting high medical 
 
 Insight: Lifestyle choices significantly impact healthcare expenditure.
 
-## ⚖️ BMI & Cost Relationship
+## BMI & Cost Relationship
 
 Correlation coefficient: ~0.198
 
@@ -88,7 +88,7 @@ Medical charges increase by approx. ₹394 per BMI unit, but BMI alone explains 
 
 Conclusion: BMI contributes to costs, but smoking and age are more influential.
 
-## 👨‍👩‍👧 Dependents Analysis
+## Dependents Analysis
 
 High medical charges (₹50,000–₹60,000+) occur even with 0–2 dependents.
 
@@ -96,7 +96,7 @@ Larger families (4–5 dependents) generally show lower maximum charges.
 
 No strong linear relationship between dependents and medical expenses.
 
-## 🌍 Regional Insights
+## Regional Insights
 
 Southeast region:
 
@@ -108,7 +108,7 @@ Other regions (Northeast, Northwest, Southwest) show similar and moderate cost l
 
 Regional variation affects charges more than BMI.
 
-## 📈 Dashboard Overview
+## Dashboard Overview
 
 The Excel dashboard provides:
 
@@ -126,7 +126,7 @@ Visual summaries for executive-level decision-making
 <img width="1752" height="949" alt="image" src="https://github.com/user-attachments/assets/178f9344-a333-4781-9762-e0f8bf95267b" />
 
 
-## 📺 Presentation Walkthrough:
+## Presentation Walkthrough:
 https://youtu.be/LkxaS82KktQ
 
 ## 🛠 Tools & Skills Used
@@ -149,6 +149,6 @@ Correlation Analysis
 
 Business Insight Generation
 
-## 🎯 Project Outcome
+## Project Outcome
 
 This project demonstrates how Excel can be effectively used for healthcare analytics, uncovering critical cost drivers and translating raw data into clear, business-ready insights. It highlights strong analytical thinking, dashboarding skills, and the ability to communicate findings to non-technical stakeholders.
