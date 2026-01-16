@@ -1,4 +1,19 @@
 # 📊 Medical Data Analysis Project
+
+## Table of Contents
+1.  [Project Overview](#project-overview)
+2.  [Business Questions Addressed](#business-questions-addressed)
+3.  [Dataset Overview](#dataset-overview)
+4.  [Key Takeaways](#key-takeaways)
+5.  [Statistical Summary](#statistical-summary)
+6.  [Smoking Impact Analysis](#smoking-impact-analysis)
+7.  [BMI & Cost Relationship](#bmi--cost-relationship)
+8.  [Dependents Analysis](#dependents-analysis)
+9.  [Regional Insights](#regional-insights)
+10. [Dashboard Overview](#dashboard-overview)
+11. [Tools & Skills Used](#tools--skills-used)
+12. [Project Outcome](#project-outcome)
+
 ## Project Overview
 
 This project analyzes medical insurance data to identify key drivers of healthcare costs using Microsoft Excel.
@@ -15,19 +30,6 @@ Is BMI a strong predictor of medical expenses?
 Do dependents significantly affect insurance charges?
 
 Which region incurs the highest medical costs?
-
-## Table of Contents
-
-1. [Dataset Overview](#dataset-overview)
-2. [Key Takeaways](#key-takeaways)
-3. [Statistical Summary](#statistical-summary)
-4. [Smoking Impact Analysis](#smoking-impact-analysis)
-5. [BMI & Cost Relationship](#bmi--cost-relationship)
-6. [Dependents Analysis](#dependents-analysis)
-7. [Regional Insights](#regional-insights)
-8. [Dashboard Overview](#dashboard-overview)
-9. [Tools & Skills Used](#tools--skills-used)
-10. [Project Outcome](#project-outcome)
 
 ## Dataset Overview
 
