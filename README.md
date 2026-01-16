@@ -1,4 +1,3 @@
-
 # 📊 Medical Data Analysis Project (Excel Dashboard)
 ## 📌 Project Overview
 
@@ -19,25 +18,17 @@ Which region incurs the highest medical costs?
 
 ## 📑 Table of Contents
 
-Dataset Overview
-
-Key Takeaways
-
-Statistical Summary
-
-Smoking Impact Analysis
-
-BMI & Cost Relationship
-
-Dependents Analysis
-
-Regional Insights
-
-Dashboard Overview
-
-Tools & Skills Used
-
-Project Outcome
+## 📑 Table of Contents
+3. [Dataset Overview](#dataset-overview)
+4. [Key Takeaways](#key-takeaways)
+5. [Statistical Summary](#statistical-summary)
+6. [Smoking Impact Analysis](#smoking-impact-analysis)
+7. [BMI & Cost Relationship](#bmi--cost-relationship)
+8. [Dependents Analysis](#dependents-analysis)
+9. [Regional Insights](#regional-insights)
+10. [Dashboard Overview](#dashboard-overview)
+11. [Tools & Skills Used](#tools--skills-used)
+12. [Project Outcome](#project-outcome)
 
 ## 📂 Dataset Overview
 
