@@ -26,6 +26,7 @@ Which region incurs the highest medical costs?
 7. [Regional Insights](#regional-insights)
 8. [Dashboard Overview](#dashboard-overview)
 9. [Tools & Skills Used](#tools--skills-used)
+    
 10.[Project Outcome](#project-outcome)
 
 ## Dataset Overview
